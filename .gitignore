@@ -1,0 +1,26 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor and IDE settings
+.vscode/
+.idea/
+.cursor/
+
+# Temporary files
+*.swp
+*.swo
+*~
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# Local environment files
+.env
+.env.*
+
+# Local worktrees
+.worktrees/
+worktrees/
