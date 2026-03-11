@@ -25,6 +25,8 @@ The initial public repository layout is:
 
 ## Getting Started
 
+→ **[Quick Start guide](docs/quick-start.md)** — get PRGate reviewing your PRs in under 5 minutes.
+
 - Use this `.github` repository for shared issue templates, pull request guidance, and organization defaults.
 - As public repositories are published, `prgate` will be the main home for product code and docs.
 - `prgate-examples` will hold sample setups and demo integrations.
